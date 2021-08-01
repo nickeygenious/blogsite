@@ -1,0 +1,20 @@
+.gallaryPost{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sideImageWraper div{
+    width: 100%;
+    }
+
+.sideImageWraper div img{
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.HomeContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
